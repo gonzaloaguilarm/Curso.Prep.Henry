@@ -1,0 +1,7 @@
+
+Explicacion para niño de 12 años:
+    * Variables: toman valores que le asignemos
+	* Strings: tipo de variable que se escribe entre comillas. Se lo toma como texto
+	* Funciones (argumentos, `return`): se utilizan para no ser redundantes en el codigo. Cada vez que debemos utilizar estas funciones simplemente las llamamos y ejecutamos con (). Los argumentos son los valores que la funcion requiere para realizar sus operaciones internas. La funcion return nos devuelve a traves de la consola el resultado de lo que la funcion realizo.
+	* Declaraciones `if`: son condicionales. Si la variable cumple con cierta condicion seguira un camino dentro del codigo.
+	* Valores booleanos (`true`, `false`): Son valores que indican si una condicion dada es verdadera o falsa. Manejan unicamente dos valores true o false.
