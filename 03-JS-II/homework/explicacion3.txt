@@ -1,0 +1,7 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`: es una iteracion, o tambien denominado 'loop', el cual dara vueltas en el codigo dentro de sus llaves ({}) la cantidad de veces que se coloque dentro del parentesis. Dentro del parentesis se crea una variable la cual hara de contador para las vueltas que deba dar el for.
+* `&&`, `||`, `!`: son comparaciones logicas para determinar condiciones y caminos que tomara nuestro codigo. 
+&&: o 'and' dara true si se cumplen ambas condiciones dadas
+||: o 'or' dara true si alguna de las dos condiciones dadas es true
+!: o 'not' es un negador. Si el resultado de la condicion dada es true dara false y viceversa
