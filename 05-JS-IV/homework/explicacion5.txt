@@ -1,0 +1,11 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: Un objeto es un tipo de dato que se compone de propiedades que lo definen. Cada una de estas propiedades a su vez tienen un valor. El conjunto de ambas se denomina key value pair. 
+
+	* Propiedades: Las propiedades son los valores que se utilizan dentro de un objeto. Estos pueden ser tanto como strings, numeros, booleanos, funciones, arrays u otros objetos.
+
+	* Métodos: Son las funciones que definimos dentro de un objeto-
+
+	* Bucle `for…in`: Es la manera de iterar dentro de un objeto. A diferencia del for que se utilizaba para recorrer arrays, en el for in loop, la manera de escribirlo es for(var propiedad in objeto){} de esta manera se crea una variable dentro del parentesis(propiedad) la cual va a tomar el valor de las propiedades dentro del objeto(objeto) a recorrer.
+
+	* Notación de puntos vs notación de corchetes: Ambas son maneras de acceder a los valores dentro de las propiedades de un objeto. Dot notation es la más simple de escribir, pero si queremos acceder a una propiedad a travez de una variable, o la propiedad esta separada por espacios vamos a tener que utilizar el bracket notation. 
